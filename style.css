@@ -1,0 +1,26 @@
+/* 背景 */
+body {
+    background-color: rgb(184, 119, 59);
+}
+.container{
+    background-color: #eee;
+}
+/* 文字 */
+h1{
+    color: rgb(202, 65, 23);
+    font-size: 36px
+}
+.carousel-item img {
+    height: 500px;
+    object-fit: cover
+}
+.card  img{
+height: 500px;
+object-fit: cover
+}
+footer{
+    height: 100px;
+    line-height: 100px;
+    color: #fff;
+　　background-color: rgb(202, 65, 23);　
+}
